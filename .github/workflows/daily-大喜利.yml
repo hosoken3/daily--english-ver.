@@ -1,0 +1,75 @@
+name: Daily Joke Update
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 毎日朝9時（日本時間）
+  workflow_dispatch:
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get random joke or advice and update README
+        run: |
+          # APIエンドポイントリスト
+          APIS=("https://official-joke-api.appspot.com/jokes/random"
+                "https://icanhazdadjoke.com/"
+                "https://yomomma-api.herokuapp.com/jokes"
+                "https://api.adviceslip.com/advice")
+
+          # ランダムで1つ選ぶ
+          IDX=$((RANDOM % ${#APIS[@]}))
+          SELECTED_API="${APIS[$IDX]}"
+
+          echo "Selected API: $SELECTED_API"
+          # Acceptヘッダー対応
+          if [[ "$SELECTED_API" == "https://icanhazdadjoke.com/" ]]; then
+            DATA=$(curl -s -H "Accept: application/json" "$SELECTED_API")
+            JOKE=$(echo "$DATA" | jq -r '.joke')
+            SETUP=""
+            PUNCHLINE="$JOKE"
+          elif [[ "$SELECTED_API" == "https://official-joke-api.appspot.com/jokes/random" ]]; then
+            DATA=$(curl -s "$SELECTED_API")
+            SETUP=$(echo "$DATA" | jq -r '.setup')
+            PUNCHLINE=$(echo "$DATA" | jq -r '.punchline')
+          elif [[ "$SELECTED_API" == "https://yomomma-api.herokuapp.com/jokes" ]]; then
+            DATA=$(curl -s "$SELECTED_API")
+            SETUP=""
+            PUNCHLINE=$(echo "$DATA" | jq -r '.joke')
+          elif [[ "$SELECTED_API" == "https://api.adviceslip.com/advice" ]]; then
+            DATA=$(curl -s "$SELECTED_API")
+            SETUP=""
+            PUNCHLINE=$(echo "$DATA" | jq -r '.slip.advice')
+          else
+            SETUP=""
+            PUNCHLINE="APIエラー"
+          fi
+
+          CURRENT_DATE=$(date '+%Y-%m-%d %H:%M')
+
+          cat > README.md << EOF
+          # 今日の一発ネタ・ジョーク 😄
+
+          $SETUP
+
+          **$PUNCHLINE**
+
+          ---
+          - ソースAPI: $SELECTED_API
+          - 最終更新: $CURRENT_DATE
+
+          このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
+          GitHub Actionsの力で、365日違った文章に出会えます。
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "📝 今日のジョークを更新: $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
