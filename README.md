@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What's the difference between a hippo and a zippo?
 
-**One is really heavy, the other is a little lighter.**
+
+**Everything matters, but nothing matters that much.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-08-09 00:52
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2025-08-10 01:00
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
