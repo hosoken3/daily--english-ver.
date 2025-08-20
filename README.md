@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you give to a lemon in need?
+Where does batman go to the bathroom?
 
-**Lemonaid.**
+**The batroom.**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-08-18 00:57
+- 最終更新: 2025-08-20 00:49
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
