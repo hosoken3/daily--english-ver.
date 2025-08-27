@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+There are 10 types of people in this world...
 
-
-**Did you know Albert Einstein was a real person? All this time, I thought he was just a theoretical physicist!**
+**Those who understand binary and those who don't**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2025-08-26 00:50
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2025-08-27 00:48
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
