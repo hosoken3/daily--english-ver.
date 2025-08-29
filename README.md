@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Why don't programmers like nature?
 
-**There's too many bugs.**
+
+**What’s the longest word in the dictionary? Smiles. Because there’s a mile between the two S’s.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-08-28 00:47
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2025-08-29 00:48
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
