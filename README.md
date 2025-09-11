@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+Why does a chicken coop only have two doors?
 
-
-**Why did the worker get fired from the orange juice factory? Lack of concentration.**
+**Because if it had four doors it would be a chicken sedan.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2025-09-10 00:46
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2025-09-11 00:47
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
