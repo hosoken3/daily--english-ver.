@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Did you watch the new comic book movie?
 
-**It was very graphic!**
+
+**Why should you never trust a pig with a secret? Because it's bound to squeal.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-09-19 00:47
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2025-09-20 00:44
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
