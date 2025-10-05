@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What is the hardest part about sky diving?
+What do you call a dictionary on drugs?
 
-**The ground.**
+**High definition.**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-10-03 00:45
+- 最終更新: 2025-10-05 00:52
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
