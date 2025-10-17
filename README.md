@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What’s the difference between an African elephant and an Indian elephant?
 
-
-**Don't feed Mogwais after midnight.**
+**About 5000 miles.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2025-10-15 00:49
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2025-10-17 00:47
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
