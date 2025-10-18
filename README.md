@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What’s the difference between an African elephant and an Indian elephant?
 
-**About 5000 miles.**
+
+**Try going commando to an important meeting, NB: don't wear a skirt.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-10-17 00:47
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2025-10-18 00:44
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
