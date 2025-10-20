@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What do you call a cow with no legs?
 
-
-**Try going commando to an important meeting, NB: don't wear a skirt.**
+**Ground beef!**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2025-10-18 00:44
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2025-10-20 00:52
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
