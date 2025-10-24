@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you call a cow with no legs?
 
-**Ground beef!**
+
+**Give up your seat for someone who needs it.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-10-20 00:52
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2025-10-24 00:45
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
