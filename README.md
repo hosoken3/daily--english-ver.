@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Where’s the bin?
+Why are pirates called pirates?
 
-**I haven’t been anywhere!**
+**Because they arrr!**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-10-31 00:50
+- 最終更新: 2025-11-01 00:53
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
