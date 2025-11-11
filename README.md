@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What was a more important invention than the first telephone?
 
-**The second one.**
+
+**The more ideas that you give away, the more ideas that will come to you.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-11-09 00:54
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2025-11-11 00:52
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
