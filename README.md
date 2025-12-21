@@ -2,11 +2,11 @@
 
 
 
-**Don't judge a book by its cover, unless it has a synopsis on the back.**
+**Some of life's best lessons are learnt at the worst times.**
 
 ---
 - ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2025-12-20 00:51
+- 最終更新: 2025-12-21 00:58
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
