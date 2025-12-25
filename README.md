@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Why did the developer break up with their keyboard?
 
-**It just wasn't their type anymore.**
+
+**If your hair is thinning, try dying your hair a similar tone to your scalp.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2025-12-24 00:54
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2025-12-25 00:54
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
