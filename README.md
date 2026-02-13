@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What’s 50 Cent’s name in Zimbabwe?
 
-
-**Don't try and bump start a motorcycle on an icy road.**
+**200 Dollars.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-02-12 01:10
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-02-13 01:13
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
