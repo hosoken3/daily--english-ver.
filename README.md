@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you do when you see a space man?
 
-**Park your car, man.**
+
+**Why was the picture sent to prison? It was framed.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-03-11 01:03
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2026-03-12 01:01
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
