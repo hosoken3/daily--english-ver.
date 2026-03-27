@@ -2,11 +2,11 @@
 
 
 
-**Don't give to others advice which you wouldn't follow.**
+**I was just looking at my ceiling. Not sure if it’s the best ceiling in the world, but it’s definitely up there.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-03-25 01:11
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2026-03-27 01:16
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
