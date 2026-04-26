@@ -2,11 +2,11 @@
 
 
 
-**Big things have small beginnings.**
+**What do birds give out on Halloween? Tweets.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-04-25 01:20
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2026-04-26 01:30
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
