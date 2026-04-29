@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What's the best thing about a Boolean?
 
-
-**Why can't you use "Beef stew" as a password? Because it's not stroganoff.**
+**Even if you're wrong, you're only off by a bit.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-04-28 01:51
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-04-29 01:54
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
