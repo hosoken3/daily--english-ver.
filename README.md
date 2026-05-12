@@ -2,11 +2,11 @@
 
 
 
-**I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.**
+**Being kind is more rewarding than being right.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-05-11 01:59
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-05-12 01:57
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
