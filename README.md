@@ -2,11 +2,11 @@
 
 
 
-**What happens when you anger a brain surgeon? They will give you a piece of your mind.**
+**For every complex problem there is an answer that is clear, simple, and wrong.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-06-03 02:40
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-06-04 02:36
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
