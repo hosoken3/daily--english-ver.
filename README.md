@@ -2,11 +2,11 @@
 
 
 
-**For every complex problem there is an answer that is clear, simple, and wrong.**
+**If you don't like the opinion you've been given, get another one.**
 
 ---
 - ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-06-04 02:36
+- 最終更新: 2026-06-05 02:11
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
