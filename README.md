@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What do you call a careful wolf?
 
-
-**If you don't like the opinion you've been given, get another one.**
+**Aware wolf.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-06-05 02:11
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-06-06 02:02
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
