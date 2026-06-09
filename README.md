@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you call a careful wolf?
+What do you call a group of killer whales playing instruments?
 
-**Aware wolf.**
+**An Orca-stra.**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-06-06 02:02
+- 最終更新: 2026-06-09 01:58
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
