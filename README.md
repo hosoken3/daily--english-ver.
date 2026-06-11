@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you call a group of killer whales playing instruments?
 
-**An Orca-stra.**
+
+**Why did the worker get fired from the orange juice factory? Lack of concentration.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-06-09 01:58
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2026-06-11 02:33
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
