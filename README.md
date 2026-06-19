@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Where do rabbits go after they get married?
+Don't look at the eclipse through a colander.
 
-**On a bunny-moon.**
+**You'll strain your eyes.**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-06-17 02:37
+- 最終更新: 2026-06-19 02:50
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
