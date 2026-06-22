@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you call a fake noodle?
+Why did the Clydesdale give the pony a glass of water?
 
-**An impasta.**
+**Because he was a little horse**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-06-21 02:36
+- 最終更新: 2026-06-22 02:39
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
