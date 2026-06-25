@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you call a boomerang that won't come back?
 
-**A stick.**
+
+**Make choices and dont look back.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-06-24 02:08
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-06-25 02:07
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
