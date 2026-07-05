@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Did you hear about the runner who was criticized?
 
-**He just took it in stride**
+
+**Age is of no importance, unless you are a cheese.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-07-04 01:50
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-07-05 01:56
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
