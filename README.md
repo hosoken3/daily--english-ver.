@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+How many hipsters does it take to change a lightbulb?
 
-
-**Age is of no importance, unless you are a cheese.**
+**Oh, it's a really obscure number. You've probably never heard of it.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-07-05 01:56
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-07-06 02:03
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
