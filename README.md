@@ -2,11 +2,11 @@
 
 
 
-**Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.**
+**If you are ever in doubt about whether or not to wash your hair: Wash it.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-07-13 01:43
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-07-14 01:19
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
