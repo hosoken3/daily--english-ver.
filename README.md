@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Did you watch the new comic book movie?
 
-**It was very graphic!**
+
+**When hugging, hug with both arms and apply reasonable, affectionate pressure.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-07-15 01:16
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-07-16 01:26
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
