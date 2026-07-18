@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What did the Dorito farmer say to the other Dorito farmer?
 
-
-**What's the difference between roast beef and pea soup. Anyone can roast beef, but nobody can pee soup.**
+**Cool Ranch!**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-07-17 01:29
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-07-18 01:21
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
