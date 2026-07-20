@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Can February march?
 
-**No, but April may.**
+
+**Once in a while, eat some sweets you used to enjoy when you were younger.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-07-19 01:27
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-07-20 03:18
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
