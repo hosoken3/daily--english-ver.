@@ -2,11 +2,11 @@
 
 
 
-**Once in a while, eat some sweets you used to enjoy when you were younger.**
+**My New Years resolution is to stop leaving things so late.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-07-20 03:18
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2026-07-22 01:26
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
