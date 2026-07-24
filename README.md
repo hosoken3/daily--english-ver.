@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What lies at the bottom of the ocean and twitches?
 
-
-**Did you hear about the runner who was criticized? He just took it in stride**
+**A nervous wreck.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-07-23 01:45
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-07-24 01:41
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
