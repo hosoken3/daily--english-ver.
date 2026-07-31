@@ -2,11 +2,11 @@
 
 
 
-**Why don’t skeletons ever go trick or treating? Because they have nobody to go with.**
+**How do you organize a space party? You planet.**
 
 ---
 - ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-07-28 01:25
+- 最終更新: 2026-07-31 01:45
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
