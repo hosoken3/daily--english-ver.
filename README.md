@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-Why are pirates called pirates?
+What did the janitor say when he jumped out of the closet?
 
-**Because they arrr!**
+**Supplies!**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-08-21 00:36
+- 最終更新: 2026-08-23 00:37
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
