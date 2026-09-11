@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+What's the best thing about a Boolean?
 
-
-**I hate perforated lines, they're tearable.**
+**Even if you're wrong, you're only off by a bit.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-09-10 01:56
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-09-11 01:54
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
