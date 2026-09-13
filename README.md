@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+Where did the API go to eat?
 
-
-**If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.**
+**To the RESTaurant.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-09-12 01:59
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-09-13 01:53
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
