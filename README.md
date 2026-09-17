@@ -2,11 +2,11 @@
 
 
 
-**What do you get when you cross a rabbit with a water hose? Hare spray.**
+**YOLO**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-09-16 02:10
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-09-17 02:14
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
