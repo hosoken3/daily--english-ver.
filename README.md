@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+Why do ducks make great detectives?
 
-
-**What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!**
+**They always quack the case.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-10-07 03:09
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-10-08 03:24
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
