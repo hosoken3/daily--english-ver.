@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What's red and bad for your teeth?
 
-**A Brick.**
+
+**Life can be a lot more interesting inside your head.**
 
 ---
-- ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-10-09 03:30
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-10-10 03:10
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
