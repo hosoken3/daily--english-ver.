@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
+The punchline often arrives before the set-up.
 
-
-**Life can be a lot more interesting inside your head.**
+**Do you know the problem with UDP jokes?**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-10-10 03:10
+- ソースAPI: https://official-joke-api.appspot.com/jokes/random
+- 最終更新: 2026-10-11 02:43
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
