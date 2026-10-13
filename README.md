@@ -2,11 +2,11 @@
 
 
 
-**When you look around and don't see anyone you respect, its time to leave.**
+**An apple a day keeps the bullies away. If you throw it hard enough.**
 
 ---
-- ソースAPI: https://api.adviceslip.com/advice
-- 最終更新: 2026-10-12 03:06
+- ソースAPI: https://icanhazdadjoke.com/
+- 最終更新: 2026-10-13 04:22
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
