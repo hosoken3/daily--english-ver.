@@ -1,12 +1,12 @@
 # 今日の一発ネタ・ジョーク 😄
 
-What do you call a dictionary on drugs?
+Who did the wizard marry?
 
-**High definition.**
+**His ghoul-friend**
 
 ---
 - ソースAPI: https://official-joke-api.appspot.com/jokes/random
-- 最終更新: 2026-11-04 03:45
+- 最終更新: 2026-11-05 04:03
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
