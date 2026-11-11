@@ -2,11 +2,11 @@
 
 
 
-**What’s E.T. short for? He’s only got little legs.**
+**Why can't eggs have love? They will break up too soon.**
 
 ---
 - ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-11-10 05:03
+- 最終更新: 2026-11-11 03:37
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
