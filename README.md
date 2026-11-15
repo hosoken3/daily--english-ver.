@@ -2,11 +2,11 @@
 
 
 
-**I gave all my dead batteries away today, free of charge.**
+**You don't need to floss all of your teeth. Only the ones you want to keep.**
 
 ---
-- ソースAPI: https://icanhazdadjoke.com/
-- 最終更新: 2026-11-14 03:55
+- ソースAPI: https://api.adviceslip.com/advice
+- 最終更新: 2026-11-15 03:39
 
 このリポジトリは毎日朝9時に自動で英語のジョークやアドバイスが更新されます！
 GitHub Actionsの力で、365日違った文章に出会えます。
